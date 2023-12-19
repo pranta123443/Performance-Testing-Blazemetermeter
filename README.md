@@ -1,4 +1,4 @@
-# Performance-Testing-Blazemetermeter
+# Performance-Testing-Blazemeter
 Command :
 jmeter -n -t banglapazzle_T50.jmx -l report\banglapazzle_T50.jtl
 
